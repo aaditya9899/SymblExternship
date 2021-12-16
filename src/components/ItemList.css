@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+.item-list {
+    width: 480px;
+    margin: 60px auto;
+    
+  }
+  .item-list h1{
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Playfair Display', serif;
+
+  }
+  .item-list ul {
+    padding: 0;
+  }
+  .item-list li {
+  font-family: 'Playfair Display', serif; 
+    border: 2px solid #e4e4e4;
+    box-sizing: border-box;
+    padding: 10px;
+    box-shadow: 4px 4px 6px rgba(0,0,0,0.05);
+    border-radius: 4px;
+    list-style-type: none;
+    margin: 20px 0;
+  }
+
+
+
